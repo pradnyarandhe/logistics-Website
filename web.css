@@ -1,0 +1,71 @@
+.checked {
+      color: orange;
+    }
+
+.btn1 {
+background-color: rgb(171, 171, 171);
+color: white;
+padding-left: 90px;
+width: 100%;
+
+padding: 10px;
+border: none;
+
+}
+
+.panel1{
+      padding-top: 30px; 
+      padding-bottom: 30px;
+}
+
+.content { 
+width: 60%;
+background-color: #f1f1f1;
+}
+
+
+.main{
+      background-image:url('city.jpg') ;
+      opacity: 0.9;
+}
+
+.head1{
+      padding-top: 14px;
+      padding-bottom: 3px;
+      padding-left: 136px;
+      background-color: #c4c2c2;
+}
+
+
+.main1{
+      background-image:url('city2.jpg') ;
+      
+}
+
+.main2{
+      background-image:url('city3.jpg') ;
+      
+}
+
+.main3{
+      padding-left: 140px;
+      
+}
+
+.box {
+      
+  
+      position: absolute;
+      padding-top: 40px;
+      padding-bottom: 70px;
+      
+     
+     
+     
+    }
+    .overlay {
+    
+      background-color: white;
+    
+     
+    }
